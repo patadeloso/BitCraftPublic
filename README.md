@@ -31,8 +31,31 @@ We welcome contributions that improve correctness, stability, or player experien
 
 Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for details on contribution scope and process.
 
+
+
+
 ## License
 
-See [LICENSE](./LICENSE) for license details.
+See [LICENSE](./LICENSE) for license details. The license applies only to the contents of this repository. It doesn't extend to any other assets or code that is not part of BitCraftPublic.
+
+## What you can and cannot do
+
+To avoid any confusion, here is a clear summary what is allowed and what is not allowed:
+
+You can:
+- Read and study the code to better understand how the game works
+- Modify and experiment with the code locally
+- Run your own servers for experimentation
+- Use it as a reference for building your own projects
+- Make a game similar to BitCraft with your own IP (art and themes) using our code as a basis
+
+You cannot:
+- Use BitCraft’s art, game content, music, or other protected assets
+- Use BitCraft’s IP or present forks as official
+- Share information about any discovered exploits in the game with anyone other than us
+- Operate official, unofficial, private or any otherwise competing BitCraft servers
+- Do anything that violates the open source license
+
+The game’s assets and IP remain protected, and the official BitCraft servers will continue to be operated by us.
 
 This repository is released as part of our commitment to openness and long-term collaboration with the community. It is not connected to the live game infrastructure, and any changes here will not affect the official BitCraft servers.
