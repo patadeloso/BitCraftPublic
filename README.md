@@ -69,12 +69,9 @@ We welcome contributions that improve correctness, stability, or player experien
 
 Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for details on contribution scope and process.
 
-
-
-
 ## License
 
-See [LICENSE](./LICENSE) for license details. The license applies only to the contents of this repository. It doesn't extend to any other assets or code that is not part of BitCraftPublic.
+The BitCraft source code is licensed under the Apache 2.0 license. See [LICENSE](./LICENSE) for license details. The license applies only to the contents of this repository. It doesn't extend to any other assets or code that is not part of BitCraftPublic. For more information see [NOTICE](./NOTICE).
 
 ## What you can and cannot do
 
@@ -95,5 +92,7 @@ You cannot:
 - Do anything that violates the open source license
 
 The game’s assets and IP remain protected, and the official BitCraft servers will continue to be operated by us.
+
+For more information see [NOTICE](./NOTICE).
 
 This repository is released as part of our commitment to openness and long-term collaboration with the community. It is not connected to the live game infrastructure, and any changes here will not affect the official BitCraft servers.
