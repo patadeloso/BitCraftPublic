@@ -1,11 +1,49 @@
-# BitCraftPublic
+<p align="center">
+    <a href="https://bitcraftonline.com#gh-dark-mode-only" target="_blank">
+    <img width="320" src="./images/dark/logo.svg" alt="BitCraft Logo">
+    </a>
+    <a href="https://bitcraftonline.com#gh-light-mode-only" target="_blank">
+    <img width="320" src="./images/light/logo.svg" alt="BitCraft Logo">
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://store.steampowered.com/app/3454650/BitCraft_Online/#gh-dark-mode-only" target="_blank">
+    <img width="200" src="./images/dark/steam-button.svg" alt="Play Now">
+    </a>
+    <a href="https://store.steampowered.com/app/3454650/BitCraft_Online/#gh-light-mode-only" target="_blank">
+    <img width="200" src="./images/light/steam-button.svg" alt="Play Now">
+    </a>
+</p>
+<p align="center">
+    <a href="https://discord.com/invite/bitcraft#gh-dark-mode-only"><img height="25" src="./images/dark/social/Discord.svg" alt="Discord"></a>
+    <a href="https://discord.com/invite/bitcraft#gh-light-mode-only"><img height="25" src="./images/light/social/Discord.svg" alt="Discord"></a>
+    &nbsp;
+    <a href="https://twitter.com/BitCraftOnline#gh-dark-mode-only"><img height="25" src="./images/dark/social/X.svg" alt="X"></a>
+    <a href="https://twitter.com/BitCraftOnline#gh-light-mode-only"><img height="25" src="./images/light/social/X.svg" alt="X"></a>
+    &nbsp;
+    <a href="https://www.facebook.com/BitCraftOnline#gh-dark-mode-only"><img height="25" src="./images/dark/social/Facebook.svg" alt="Facebook"></a>
+    <a href="https://www.facebook.com/BitCraftOnline#gh-light-mode-only"><img height="25" src="./images/light/social/Facebook.svg" alt="Facebook"></a>
+    &nbsp;
+    <a href="https://www.instagram.com/bitcraftonline/#gh-dark-mode-only"><img height="25" src="./images/dark/social/Instagram.svg" alt="Instagram"></a>
+    <a href="https://www.instagram.com/bitcraftonline/#gh-light-mode-only"><img height="25" src="./images/light/social/Instagram.svg" alt="Instagram"></a>
+    &nbsp;
+    <a href="https://www.tiktok.com/@bitcraftonline#gh-dark-mode-only"><img height="25" src="./images/dark/social/TikTok.svg" alt="TikTok"></a>
+    <a href="https://www.tiktok.com/@bitcraftonline#gh-light-mode-only"><img height="25" src="./images/light/social/TikTok.svg" alt="TikTok"></a>
+    &nbsp;
+    <a href="https://bsky.app/profile/bitcraftonline.bsky.social#gh-dark-mode-only"><img height="25" src="./images/dark/social/BlueSky.svg" alt="BlueSky"></a>
+    <a href="https://bsky.app/profile/bitcraftonline.bsky.social#gh-light-mode-only"><img height="25" src="./images/light/social/BlueSky.svg" alt="BlueSky"></a>
+    &nbsp;
+</p>
 
 This repository contains the **server-side code** for **BitCraft**, a community sandbox MMORPG developed by Clockwork Labs.
 
 BitCraft blends cooperative gameplay, city-building, crafting, exploration, and survival — all in a single seamless world shared by players around the globe.
 This repository represents the first phase of our open source initiative. It is being made available for public inspection, experimentation, and contribution.
 
-In this first phase we are only open sourcing the server side code.
+In this first phase we are only open sourcing the server side code. You can read more about our decision to open source the game here:
+- [Open Sourcing BitCraft Online](https://bitcraftonline.com/news/open-sourcing-bitcraft-online)
+- [BitCraft Open Sourcing Update](https://bitcraftonline.com/news/bitcraft-open-sourcing-update)
 
 ## About BitCraft
 
